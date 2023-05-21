@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "name": "cena",
+      "description": "pollo con ensalada",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "name": "correr",
+      "description": "5 a 8 km en el golfito",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "name": "Lavar Auto",
+      "description": "limpiar adentro del auto",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "name": "Led tv",
+      "description": "Reparar placa led",
+      "completed": false,
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Mauro",
+      "lastName": "Ragusi",
+      "online": false
+    }
+  ]
+}
